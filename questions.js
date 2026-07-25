@@ -21,7 +21,7 @@ questions =  [
     {"id": 19, "question": "I am sympathetic towards people who disagree with me on topics that affect them.", "effects": {"auth": 1}},
     {"id": 20, "question": "I actively participate in civil rights organizations for minorities that I am not a part of.", "effects": {"auth": 1}},
     {"id": 21, "question": "I will support an organization that disagrees with some of my beliefs if they are otherwise contributing a net positive to society.", "effects": {"auth": 1}},
-    {"id": 22, "question": "If you have nothing to hide, you have nothing to fear.", "effects": {"auth": 1}},
+    {"id": 22, "question": "I appeal to classical arguments from literature I have read over morals or empathy when constructing an argument.", "effects": {"auth": -1}},
     {"id": 23, "question": "I became convinced of my current political beliefs because of something that happened in my life.", "effects": {"auth": -1}},
     {"id": 24, "question": "I care about children's rights.", "effects": {"auth": 1}},
     {"id": 25, "question": "I am a registered organ donor.", "effects": {"auth": 1}},
